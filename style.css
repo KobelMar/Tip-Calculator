@@ -1,0 +1,72 @@
+body {
+    background-color:purple;
+}
+
+#tip-calculator {
+    height: 600px;
+    width: 50%;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#header h2 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#main {
+    background-color: purple;
+    height: 542px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;    
+}
+
+#main-p div {
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+
+#first-p {
+    margin: 0px;
+    padding-top: 10px;
+}
+
+.button_container {
+    text-align: center;
+}
+
+button {
+    margin-left: auto 0;
+    font-size: large;
+    background-color: turquoise;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: darkorange;
+    font-weight: bold;
+
+}
+
+#quality-service {
+    font-size: large;
+}
+
+#selectP {
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+    color: black;
+}
+
